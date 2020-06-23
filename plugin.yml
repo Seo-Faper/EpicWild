@@ -1,0 +1,11 @@
+name: EpicWild
+
+main: EpicWild
+
+version: 0.1
+
+commands:
+
+  start:
+
+    description:
